@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "id": "41af6b9c-ed98-4f0d-8853-f0e48fad2263",
+    "contentHash": "B4i1HoWfD7ttNWdmJGvqTcTCv5KYjey7s0dlS8671qI=",
+    "platformVersion": "10.0.0",
+    "revisionId": "132480d9-828d-44f5-b477-7858317de781",
+    "updatedAt": "2026-03-12T14:53:57.6739704Z",
+    "updatedBy": "Toca.io",
+    "branch": "/app/data/git/08de213f-c327-4081-8099-7279814f1bf6"
+  },
+  "content": {
+    "id": "69b2d373aa6894cd9821f8da",
+    "projectId": "e2f11816-5d83-4b20-8c8f-701d430ef936",
+    "description": "Activity1",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "ccc8e237-da69-47ef-a48d-9a33a0d2fc97",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022First one\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2026-03-12T14:53:39+00:00",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-03-12T14:53:54.2515909Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "activityServiceType": "Stateless",
+    "revisionId": "132480d9-828d-44f5-b477-7858317de781",
+    "userId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "workspaceId": "08de213f-c327-4081-8099-7279814f1bf6",
+    "branch": "main",
+    "resourceId": "41af6b9c-ed98-4f0d-8853-f0e48fad2263",
+    "name": "Activity1"
+  }
+}

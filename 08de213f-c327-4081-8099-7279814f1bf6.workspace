@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "id": "08de213f-c327-4081-8099-7279814f1bf6",
+    "contentHash": "Z70SIRRtpoA0l74qp44\u002Bh5yZ0idDkxjoZZJ8AnFgS3Y=",
+    "platformVersion": "10.0.0",
+    "revisionId": "9b0cbcd6-4828-4529-8a49-561db8867352",
+    "updatedAt": "2026-03-12T14:52:37.0966054Z",
+    "updatedBy": "Toca.io",
+    "branch": "/app/data/git/08de213f-c327-4081-8099-7279814f1bf6"
+  },
+  "content": {
+    "id": "08de213f-c327-4081-8099-7279814f1bf6",
+    "accent": "#0C9D92",
+    "route": "filedrivetest---imported-2025-10-27-154402",
+    "description": "main space",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "created": "2025-11-11T16:31:27.395865",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-03-12T14:52:27.7944498Z",
+    "revisionId": "9b0cbcd6-4828-4529-8a49-561db8867352",
+    "userId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "workspaceId": "08de213f-c327-4081-8099-7279814f1bf6",
+    "branch": "main",
+    "resourceId": "08de213f-c327-4081-8099-7279814f1bf6",
+    "name": "FileDriveTest - Main"
+  }
+}
