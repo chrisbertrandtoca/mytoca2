@@ -1,10 +1,10 @@
 {
   "metadata": {
     "id": "08de213f-c327-4081-8099-7279814f1bf6",
-    "contentHash": "Z70SIRRtpoA0l74qp44\u002Bh5yZ0idDkxjoZZJ8AnFgS3Y=",
+    "contentHash": "bYQ7gLuMQaWezb1PA\u002BNtZTihntB14SUMDP6t8O7f\u002BIQ=",
     "platformVersion": "10.0.0",
-    "revisionId": "9b0cbcd6-4828-4529-8a49-561db8867352",
-    "updatedAt": "2026-03-12T14:52:37.0966054Z",
+    "revisionId": "fd08a89d-c117-49d5-ba7e-bce6a71fcf6d",
+    "updatedAt": "2026-03-12T14:57:59.7290795Z",
     "updatedBy": "Toca.io",
     "branch": "/app/data/git/08de213f-c327-4081-8099-7279814f1bf6"
   },
@@ -16,8 +16,9 @@
     "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "created": "2025-11-11T16:31:27.395865",
     "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
-    "updated": "2026-03-12T14:52:27.7944498Z",
-    "revisionId": "9b0cbcd6-4828-4529-8a49-561db8867352",
+    "updated": "2026-03-12T14:57:58.6841058Z",
+    "repositoryUrl": "https://github.com/chrisbertrandtoca/mytoca2.git",
+    "revisionId": "fd08a89d-c117-49d5-ba7e-bce6a71fcf6d",
     "userId": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "workspaceId": "08de213f-c327-4081-8099-7279814f1bf6",
     "branch": "main",
